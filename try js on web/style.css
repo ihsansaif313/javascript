@@ -1,0 +1,62 @@
+.nav {
+    display: flex;
+    background-color: antiquewhite;
+    height: 10vh;
+   
+}
+.nav ul{
+    
+    list-style: none;
+    display: flex;
+}
+.nav li{
+    padding-top: 2.5vh;
+    padding-right: 23px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.Mtopic{
+    color: rgb(226, 11, 140);
+    background-color: greenyellow;
+
+}
+#first{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.red{
+    color: red;
+}
+main{
+    height: 80%;
+}
+.footer {
+    background-color: antiquewhite;
+    height: 10vh;
+   
+}
+.on{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 3px;
+    background-color: red;
+}
+.off{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 3px;
+    background-color: black;
+}
+#time{
+    margin-left: 15px;
+}
